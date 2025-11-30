@@ -2,20 +2,26 @@ project:
   type: website
 
 website:
-  title: "forgeurs"
+  title: "Forgeurs"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: pages/about.qmd
+        text: "Nous découvrir"
+      - href: contact.qmd
+        text: Contact
+      - href: sessions.qmd
+        text: Sessions
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      - superhero
     css: styles.css
     toc: true
+
+linkcolor: "#7ec0efff"
 
 
 
