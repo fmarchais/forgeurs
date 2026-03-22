@@ -1,9 +1,12 @@
 ---
-title: "Qui sommes-nous ?"
+title: "Qui sommes-nous ?"
+subtitle: "Les Forgeurs d'Aventures"
 listing: 
   contents: les_mj/*.qmd
   type: grid
 ---
+
+# Qui sommes-nous ?
 
 Les Forgeurs d'Aventures, c'est une association loi 1901 créée en 2026 par une équipe de Maîtres de Jeu. Notre objectif est de faire découvrir le jeu de rôle à de nouveaux joueurs, en proposant des parties régulières et des événements spéciaux.
 

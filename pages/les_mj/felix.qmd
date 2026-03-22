@@ -1,9 +1,8 @@
 ---
-title: "Le dernier arrivé"
+title: "Félix"
+description: "Le dernier arrivé"
 ---
 
-
-# Félix
 
 ## Les univers
 

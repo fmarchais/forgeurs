@@ -21,7 +21,7 @@ body {
   background-attachment: fixed;    /* for subtle parallax; remove if mobile issues */
   min-height: 100vh;
   /* optional tint so text stays readable */
-  background-color: rgba(0,0,0,0.35);
+  background-color: rgba(0,0,0,0.55);
   background-blend-mode: overlay;
 }
 
@@ -33,5 +33,24 @@ body {
   background-color: rgba(255, 255, 255, 0.85);
   padding: 1.25rem;
   border-radius: 8px;
+}
+
+/* Style listing cards to match the site theme */
+.card {
+  background-color: rgba(120, 77, 36, 0.8) !important;
+  border: 1px solid rgba(120, 77, 36, 1) !important;
+  color: #ffffff;
+}
+
+.card-body {
+  background-color: rgba(120, 77, 36, 0.8) !important;
+}
+
+.card-title {
+  color: #ffffff;
+}
+
+.card-text {
+  color: rgba(255, 255, 255, 0.95);
 }
 
