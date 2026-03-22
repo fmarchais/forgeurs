@@ -9,7 +9,7 @@ website:
         text: Home
       - href: pages/about.qmd
         text: "Nous découvrir"
-      - href: contact.qmd
+      - href: pages/contact.qmd
         text: Contact
       - href: https://www.eventbrite.fr/o/les-forgeurs-daventures-nantes-72524511583
         text: Sessions
