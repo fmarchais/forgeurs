@@ -155,16 +155,16 @@ ul.task-list li input[type="checkbox"] {
 <section id="nos-lieux-de-jeu" class="level1">
 <h1>Nos lieux de jeu</h1>
 <ul>
-<li><p><a href="https://www.instagram.com/la_forge_nantes/">La Forge</a>, tous les jeudis soirs, 43 Rue Gambetta, 44000 Nantes</p></li>
-<li><p><a href="https://latavernedesaventuriers.fr/">La taverne des aventuriers</a>, 2 fois par mois, 13 Rue Kervégan, 44000 Nantes</p></li>
+<li><p><a href="https://www.instagram.com/la_forge_nantes/">La Forge</a>, tous les jeudis soirs de 20h30 à 23h30, 43 Rue Gambetta, 44000 Nantes. Sessions gratuites mais <strong>sur réservation</strong> Les tables sont annoncées le weekend précédent sur nos réseaux sociaux. Pour vous inscrire, c’est <a href="https://www.eventbrite.fr/o/les-forgeurs-daventures-nantes-72524511583">par ici</a></p></li>
+<li><p><a href="https://latavernedesaventuriers.fr/">La taverne des aventuriers</a>, 2 fois par mois, 13 Rue Kervégan, 44000 Nantes. Sessions gratuites mais <a href="https://latavernedesaventuriers.fr/evenements">réservation obligatoire</a></p></li>
 </ul>
 </section>
 <section id="les-événements" class="level1">
 <h1>Les événements</h1>
-<p>Vous pourrez également nous retrouver dans des évènements ponctuels tels que :</p>
+<p>Vous pourrez également nous retrouver dans des festivals et conventions pour des sessions d’inititations</p>
 <ul>
-<li><p>Festival Asobi, Clisson</p></li>
-<li><p>Art To Play, Nantes</p></li>
+<li><p>Festival Asobi, 17 et 18 avril 2026 à Clisson</p></li>
+<li><p>Art To Play, en novembre, à Nantes</p></li>
 </ul>
 
 
@@ -244,7 +244,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/fmarchais\.github\.io\/forgeurs\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
