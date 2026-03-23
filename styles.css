@@ -32,3 +32,19 @@ body::after {
   pointer-events: none;
 }
 
+/* Polices d'écritures/*
+
+@import url('https://fonts.googleapis.com/css2?family=Rakkas&display=swap');
+
+body {
+  font-family: 'Rakkas', serif;
+}
+
+/* Or apply to specific elements */
+h1, h2, h3 {
+  font-family: 'Rakkas', serif;
+}
+
+.navbar-brand {
+  font-family: 'Rakkas', serif;
+}
