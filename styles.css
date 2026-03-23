@@ -1,5 +1,8 @@
 /* css styles */
 
+/* Import handwriting font */
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital@0;1&display=swap');
+
 /* Change sidebar background color */
 .navbar {
 background-color: #784d24ea;
@@ -8,21 +11,35 @@ background-color: #784d24ea;
 /* Justify text in main content area */
 main p {
   text-align: justify;
+  font-family: 'Crimson Text', serif;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.7;
 }
 
 
 /* Full page background */
 body {
-  /* relative path from the output HTML to the image; put images/bg.jpg next to _quarto.yml */
-  background-image: url("images/dice_normal.jpg");
-  background-size: cover;          /* cover the entire viewport */
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;    /* for subtle parallax; remove if mobile issues */
+  background-color: #3e2723;
   min-height: 100vh;
-  /* optional tint so text stays readable */
-  background-color: rgba(0,0,0,0.55);
-  background-blend-mode: overlay;
+  position: relative;
+}
+
+body::after {
+  content: '';
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 150px;
+  height: 150px;
+  background-image: url("images/dice_normal.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  z-index: 100;
+  pointer-events: none;
 }
 
 /* Ensure main content has a semitransparent background or readable contrast */
@@ -52,6 +69,10 @@ body {
 
 .card-text {
   color: rgba(255, 255, 255, 0.95);
+  font-family: 'Crimson Text', serif;
+  font-size: 1rem;
+  font-weight: 400;
 }
+
 
 
