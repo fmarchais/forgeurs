@@ -34,13 +34,15 @@ a:hover {
 
 /* Full page background */
 body {
-  background-image: url("images/scroll.jpg");
+  background-image: url("images/scroll2.png");
    background-size: cover;        /* ou 'contain' selon l'effet voulu */
   background-repeat: no-repeat;
   /*background-color: #3e2723;*/
   min-height: 100vh;
   position: relative;
   color: #000000;
+
+  
 }
 
 body::after {
@@ -94,3 +96,10 @@ body::after {
 
 
 
+.parchment {
+  width: 75%;
+  margin: 2em auto;
+  padding: 4em;
+  background: #fffef0;
+  box-shadow: 2px 3px 20px black, 0 0 125px #8f5922 inset;
+}

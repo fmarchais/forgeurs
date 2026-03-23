@@ -2,6 +2,7 @@
 title: "*Oyez, Oyez !*"
 ---
 
+
 Bienvenue chez *Les Forgeurs d'aventures* !
 
 Nous sommes une association de Jeu de Rôles, créée en 2026 par une équipe de Maîtres de Jeu passionnés. Notre objectif est de faire découvrir le jeu de rôle à de nouveaux joueurs, en proposant des parties régulières et des événements spéciaux.
@@ -21,3 +22,7 @@ Vous pourrez également nous retrouver dans des festivals et conventions pour de
 - Festival Asobi, 17 et 18 avril 2026 à Clisson
 
 - Art To Play, en novembre, à Nantes
+
+- Feu Follet, à Rennes
+
+- 
