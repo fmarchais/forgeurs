@@ -1,50 +1,19 @@
 /* css styles */
 
-/* Import handwriting font */
-@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital@0;1&display=swap');
-
 /* Change sidebar background color */
+
 .navbar {
-background-color: #784d24ea;
-}
-
-/* Justify text in main content area */
-main p {
-  text-align: justify;
-  font-family: 'Crimson Text', serif;
-  font-size: 1.2rem;
-  font-weight: 600;
-  line-height: 1.7;
-  color: #000000;
-}
-
-/* Style links */
-a {
-  color: #6b4423;
-  font-weight: 700;
-  text-decoration: none;
-  border-bottom: 2px solid #6b4423;
-}
-
-a:hover {
-  color: #8b5a2b;
-  border-bottom-color: #8b5a2b;
+  background-color: #611010ff;
 }
 
 
-/* Full page background */
 body {
-  background-image: url("images/scroll2.png");
-   background-size: cover;        /* ou 'contain' selon l'effet voulu */
+  background-image: url(images/dragon.png);
+  background-position: center;
   background-repeat: no-repeat;
-  background-attachment: fixed; /* pour que le fond reste fixe lors du scroll */
-  /*background-color: #3e2723;*/
-  min-height: 100vh;
-  position: relative;
-  color: #000000;
-
-  
+  background-attachment: fixed;
 }
+
 
 body::after {
   content: '';
@@ -63,44 +32,19 @@ body::after {
   pointer-events: none;
 }
 
-/* Ensure main content has a semitransparent background or readable contrast */
-.site-main,
-.main,
-.container {
-  /* tweak these selectors if your theme uses different wrapper classes */
-  background-color: rgba(255, 255, 255, 0.85);
-  padding: 1.25rem;
-  border-radius: 8px;
+/* Polices d'écritures/*
+
+@import url('https://fonts.googleapis.com/css2?family=Rakkas&display=swap');
+
+body {
+  font-family: 'Rakkas', serif;
 }
 
-/* Style listing cards to match the site theme */
-.card {
-  background-color: rgba(120, 77, 36, 0.8) !important;
-  border: 1px solid rgba(120, 77, 36, 1) !important;
-  color: #ffffff;
+/* Or apply to specific elements */
+h1, h2, h3 {
+  font-family: 'Rakkas', serif;
 }
 
-.card-body {
-  background-color: rgba(120, 77, 36, 0.8) !important;
-}
-
-.card-title {
-  color: #ffffff;
-}
-
-.card-text {
-  color: rgba(255, 255, 255, 0.95);
-  font-family: 'Crimson Text', serif;
-  font-size: 1rem;
-  font-weight: 400;
-}
-
-
-
-.parchment {
-  width: 75%;
-  margin: 2em auto;
-  padding: 4em;
-  background: #fffef0;
-  box-shadow: 2px 3px 20px black, 0 0 125px #8f5922 inset;
+.navbar-brand {
+  font-family: 'Rakkas', serif;
 }
