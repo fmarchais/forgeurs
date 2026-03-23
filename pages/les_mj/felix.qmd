@@ -8,7 +8,7 @@ description: "Le dernier arrivé"
 
 ### Star Wars (1987)
 
-Basé sur la saga culte, cette version de *Star Wars* utilise le système D6, très adapté aux débutants. Le système est permissif et va naturellement provoquer des scènes rocambolesques, des situations improbables, des retournements de situation inattendues... De quoi se créer facilement de bons souvenirs. 
+Basé sur la saga culte, cette version de *Star Wars* utilise le système D6, très adapté aux débutants. Le système est permissif et va naturellement provoquer des scènes rocambolesques, des situations improbables, des retournements de situation inattendus... De quoi se créer facilement de bons souvenirs. 
 
 Le jeu est très tourné sur l'aventure et l'action, mais attention : ici vous n'incarnerez ni Jedi ni Sith, vous serez bien souvent un simple rebelle ou un pirate de l'espace essayant de survivre dans la Galaxie lointaine, très lointaine.
 
@@ -34,7 +34,7 @@ Quelques scénarios que je fais jouer fréquemment :
 
 ### Avatar Legends
 Basé sur le manga et les séries animées *Avatar, le dernier maître de l'air* et *La légende de Korra*, le jeu utilise le système *PbA* (Powered by the Apocalypse / Propulsé par l'apocalypse). Les joueurs se retrouvent dans des zones sinistrées à devoir aider les survivants, combattre des bandits, faire face à des catastrophes naturelles... 
-Ce système de jeu est beaucoup moins axé sur le combat et la stratégie, et plus sur la narration et les interactions entre les personnages. C'est un système de jeu plus exigeant, mais qui permet de créer des histoires plus profondes et plus immersives. Ici, foncer dans le tas est rarement une bonne idée et il vous faudra comprendre les rapports de force entre les factions avant d'agir
+Ce système de jeu est beaucoup moins axé sur le combat et la stratégie, et plus sur la narration et les interactions entre les personnages. C'est un système de jeu plus exigeant, mais qui permet de créer des histoires plus profondes et plus immersives. Ici, foncer dans le tas est rarement une bonne idée et il vous faudra comprendre les rapports de force entre les factions avant d'agir.
 
 Les scénarios peuvent prendre place à toutes les époques de la série, de Kyoshi à Korra.
 
