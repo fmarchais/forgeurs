@@ -1,6 +1,7 @@
 ---
 title: "Félix"
-description: "Le dernier arrivé"
+description: "lorem ipsum"
+image: /images/felix.png
 ---
 
 

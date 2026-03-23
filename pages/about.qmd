@@ -4,6 +4,7 @@ subtitle: "Les Forgeurs d'Aventures"
 listing: 
   contents: les_mj/*.qmd
   type: grid
+  fields: [title, image, description]
 ---
 
 # Qui sommes-nous ?

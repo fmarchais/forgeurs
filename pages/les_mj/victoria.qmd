@@ -1,6 +1,7 @@
 ---
-title: "Victoria"
+title: "Vicky"
 description: "La présidente"
+image: /images/victoria.png
 ---
 
 

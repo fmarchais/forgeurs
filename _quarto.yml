@@ -9,10 +9,6 @@ website:
         text: Home
       - href: pages/about.qmd
         text: "Nous découvrir"
-      - href: pages/contact.qmd
-        text: Contact
-      - href: https://www.eventbrite.fr/o/les-forgeurs-daventures-nantes-72524511583
-        text: Sessions
     right:
       - icon: instagram
         href: https://www.instagram.com/les_forgeurs_daventures_jdr/
@@ -23,11 +19,13 @@ website:
       - icon: envelope
         href: mailto:lesforgeursdaventures@gmail.com
         aria-label: Email
+      - icon: agenda
+        href: https://www.eventbrite.fr/o/les-forgeurs-daventures-nantes-72524511583
 
 format:
   html:
     theme:
-      - superhero
+      - darkly
     css: styles.css
     toc: true
 
