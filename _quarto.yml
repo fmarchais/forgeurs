@@ -19,7 +19,7 @@ website:
       - icon: envelope
         href: mailto:lesforgeursdaventures@gmail.com
         aria-label: Email
-      - icon: agenda
+      - icon: calendar
         href: https://www.eventbrite.fr/o/les-forgeurs-daventures-nantes-72524511583
 
 format:
