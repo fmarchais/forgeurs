@@ -37,6 +37,7 @@ body {
   background-image: url("images/scroll2.png");
    background-size: cover;        /* ou 'contain' selon l'effet voulu */
   background-repeat: no-repeat;
+  background-attachment: fixed; /* pour que le fond reste fixe lors du scroll */
   /*background-color: #3e2723;*/
   min-height: 100vh;
   position: relative;
