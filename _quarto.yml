@@ -13,6 +13,16 @@ website:
         text: Contact
       - href: https://www.eventbrite.fr/o/les-forgeurs-daventures-nantes-72524511583
         text: Sessions
+    right:
+      - icon: instagram
+        href: https://www.instagram.com/les_forgeurs_daventures_jdr/
+        aria-label: Instagram
+      - icon: facebook
+        href: https://www.facebook.com/jdrlaforge/?locale=fr_FR
+        aria-label: Facebook
+      - icon: envelope
+        href: mailto:lesforgeursdaventures@gmail.com
+        aria-label: Email
 
 format:
   html:
