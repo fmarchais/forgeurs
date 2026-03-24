@@ -14,15 +14,15 @@ body {
   background-attachment: fixed;
 }
 
-
-body::after {
+/*
+body::before {
   content: '';
   position: fixed;
   bottom: 20px;
   right: 20px;
   width: 150px;
   height: 150px;
-  background-image: url("images/dice_normal.jpg");
+  background-image: url("images/logo.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -31,6 +31,8 @@ body::after {
   z-index: 100;
   pointer-events: none;
 }
+/*
+
 
 /* Polices d'écritures/*
 
