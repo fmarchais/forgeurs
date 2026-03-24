@@ -55,4 +55,4 @@ Quelques scénarios que je fais jouer fréquemment :
 
 ## A propos de moi
 
-Après avoir découvert le Jeu de Rôle au lycée, c'est la découverte de Baldur's Gate 3 en 2023, qui m'a donné envie de reprendre le jeu sur table. Après un an comme joueur à la table de [Bernard](pages/les_mj/bernard.qmd), je me suis lancé comme MJ à mon tour.
+Après avoir découvert le Jeu de Rôle au lycée, c'est la découverte de Baldur's Gate 3 en 2023, qui m'a donné envie de reprendre le jeu sur table. Après un an comme joueur à la table de [Bernard](pages/les_mj/bip.qmd), je me suis lancé comme MJ à mon tour.
