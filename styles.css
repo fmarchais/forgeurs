@@ -34,19 +34,23 @@ body::before {
 /*
 
 
-/* Polices d'écritures/*
-
+/* Polices d'écritures*/
 @import url('https://fonts.googleapis.com/css2?family=Rakkas&display=swap');
-
 body {
   font-family: 'Rakkas', serif;
 }
-
 /* Or apply to specific elements */
 h1, h2, h3 {
   font-family: 'Rakkas', serif;
 }
-
 .navbar-brand {
   font-family: 'Rakkas', serif;
+}
+
+.overlay-box {
+  background-color: rgba(97, 97, 97, 0.3);
+  /*backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);*/
+  padding: 1rem;
+  border-radius: 10px;
 }
