@@ -2,13 +2,30 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "Forgeurs"
+  title: "Les Forgeurs"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - href: pages/about.qmd
-        text: "Nous découvrir"
+      - text: "Accueil"
+        href: index.qmd
+        
+      - text: "Les MJ"
+        href: pages/les_mj.qmd
+
+      - text: "L'association"
+        menu:
+        - text: "Galerie"
+          href: pages/lassociation/galerie.qmd
+        - text: "Les univers"
+          href: pages/lassociation/univers.qmd
+        - text: "Nos partenaires"
+          href: pages/lassociation/partenaires.qmd
+        - text: "Nous soutenir"
+          href: pages/lassociation/nous_soutenir.qmd
+
+      - text: "Inscriptions"
+        href: https://www.eventbrite.fr/o/les-forgeurs-daventures-nantes-72524511583
+
+      
     right:
       - icon: instagram
         href: https://www.instagram.com/les_forgeurs_daventures_jdr/
@@ -19,8 +36,6 @@ website:
       - icon: envelope
         href: mailto:lesforgeursdaventures@gmail.com
         aria-label: Email
-      - icon: calendar
-        href: https://www.eventbrite.fr/o/les-forgeurs-daventures-nantes-72524511583
 
 format:
   html:
@@ -31,5 +46,6 @@ format:
 
 linkcolor: "#7ec0efff"
 
-
+margin-header: |
+  ![](/images/logo.png)
 

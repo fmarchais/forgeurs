@@ -1,0 +1,10 @@
+---
+title: "Bip"
+description: "L'expérimenté"
+image: /images/bernard.png
+---
+
+
+## Les univers
+
+- Donjons & Dragons
