@@ -54,3 +54,8 @@ h1, h2, h3 {
   padding: 1rem;
   border-radius: 10px;
 }
+
+.timeline {
+  --tl-color-label: white; /* change la couleur de l'année ("2020")  */
+  --tl-color-line: white; /* change la couleur de la ligne verticale */
+}

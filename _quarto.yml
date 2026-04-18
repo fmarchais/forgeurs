@@ -11,12 +11,19 @@ website:
       - text: "Les MJ"
         href: pages/les_mj.qmd
 
+      - text: "Le Jeu de Rôle"
+        menu:
+        - text: "Les univers"
+          href: pages/jdr/univers.qmd
+        - text: "Les systèmes de jeu"
+          href: pages/jdr/systemes.qmd
+
       - text: "L'association"
         menu:
+        - text: "Nous découvrir"
+          href: pages/lassociation/decouvrir.qmd
         - text: "Galerie"
           href: pages/lassociation/galerie.qmd
-        - text: "Les univers"
-          href: pages/lassociation/univers.qmd
         - text: "Nos partenaires"
           href: pages/lassociation/partenaires.qmd
         - text: "Nous soutenir"
@@ -47,5 +54,7 @@ format:
 linkcolor: "#7ec0efff"
 
 margin-header: |
-  ![](/images/logo.png)
+  ![](/images/logo_t.png)
 
+filters:
+  - timeline

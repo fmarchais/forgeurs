@@ -1,0 +1,83 @@
+# Les systèmes de jeu
+::: {.overlay-box}
+Vous voulez vous mettre au Jeu de Rôle, mais vous ne savez pas si cela va vous plaire ? Peur que le jeu soit trop tactique, trop théâtral, trop compliqué à comprendre ?
+
+*Ne vous inquiétez pas !*
+
+Tous les jeux n'ont pas les mêmes règles, ne demandent pas le même niveau d'implication dans le *roleplay* (incarner son personnage) ou la connaissance d'un épais livre de règles.
+
+On parle de différents *systèmes* ou *moteurs* de jeu : certains se jouent avec deux dés et une fiche de personnage grande comme un dessous de verre, quand d'autres peuvent nécessiter une session de 3 heures juste pour créer votre personnage. Dans cette section, vous découvrirez les différents systèmes existants, et à quels jeux ils correspondent parmis ceux que nous proposons.
+
+Il y en a forcément un pour vous !
+
+# Le *MeatGrinder*
+
+Le *MeatGrinder*, littéralement "Hachoir à viande", est un système de jeu qui se base sur du combat brutal et une mort qui se cache derrière le moindre arbre. Votre personnage finira probablement par mourir au bout de 10 minutes, mais ne vous inquiétez pas : vous pourrez en changer comme de chemise, c'est même le but ! La création d'un nouveau personnage se fera en un instant, et votre Maître de Jeu aura probablement déjà préparé une dizaine de fiches d'avance.
+
+Ici, abandonnez l'idée de parlementer ou de ruser pour arriver à vos fins : il faut *TAPER !*, et si possible *TAPER FORT*.
+
+Le moteur meatgrinder sera votre préféré si votre objectif est de vous défouler en buvant une bière.
+
+## Nos jeux basés sur le système meatgrinder
+
+- Gobelin qui s'en dédie, par [Jules](/pages/les_mj/jules.qmd)
+
+# Le *D20*, ou système D&D
+
+L'un des systèmes les plus connus, popularisé par *Donjons et Dragons* (D&D ou DnD pour les intimes). tactique, équilibre entre règles et narration
+
+# Le *D6*
+
+Le système D6 est plus simple que le système D20 : Vos compétences sont représentées par le nombre de dés à six faces (D6) que vous pouvez lancer. Par exemple, votre Dextérité peut être de 4D et votre Savoir de 2D. La difficulté dépend de l'action et de la situation, et fonctionne par seuils : 5 = facile, 10 = moyen, 15 = difficile, etc. Ainsi, vous pouvez rapidement devenir très bon dans une compétence, mais aussi très mauvais.
+
+C'est un système simple et efficace, qui permet de se concentrer sur l'histoire plutôt que sur les règles.
+
+Cinématique, basé sur l'improvisation et l'action
+
+# Le *Powered By The Apocalypse*
+
+Ce système se joue avec deux dés à six faces (2D6). Moins de 7 : c'est un échec. Entre 7 et 9 : c'est un succès partiel, avec un coût ou une complication. 10 ou plus : c'est un succès total.
+
+Le *PbA* repose un système "d'actions" ou de "mouvements" que les joueurs peuvent effectuer. Contrairement au système D20, c'est *l'intention* de l'action qui compte. Par exemple, dans *Avatar Légendes*, si vous souhaitez distraire un ennemi : que vous utilisiez la maîtrise d'un élément, que vous lanciez un caillou ou que vous usiez de votre charme, vous utiliserez l'action "*Tromper l'ennemi*". Ce système permet de laisser de la liberté aux joueurs dans la façon dont ils résolvent une situation pour se concentrer sur la narration : les règles ne se basent pas sur ce que le personnage *fait*, mais sur ce qu'il *veut faire.*
+
+Les jeux utilisant le système PbA sont souvent plus narratifs et moins axés sur les règles que les jeux traditionnels. Ils mettent l'accent sur les choix des joueurs et les conséquences de leurs actions, plutôt que sur la gestion de leurs statistiques ou de leur équipement.
+
+Si vous voulez suivre une histoire qui va vous impliquer émotionnellement, c'est le moteur qu'il vous faut !
+
+## Nos jeux utilisant le moteur PbA :
+
+- Avatar Légendes, par [Félix](/pages/les_mj/felix.qmd)
+
+# The Black Hack
+
+Basé sur OSR (Old-School Renaissance) + dark fantasy moins basé sur les mécaniques, inspiré des premiers JDR dont DnD1, proche meatgrinder gameplay punitif, basé sur la débrouillardise \## Les jeux :
+
+Black Sword Hack, par [Jules](/pages/les_mj/jules.qmd)
+
+# Dragon Age RPG
+
+🎲 Système :
+
+AGE System (3d6) Un dé spécial = effets supplémentaires (stunts)
+
+🎭 Style :
+
+Fantasy héroïque mais plus gritty que D&D Combat tactique avec effets stylés Progression classique
+
+👉 Bon mix entre tactique et narration
+
+# 🧙 L'Anneau Unique (La Terre du Milieu)
+
+🎲 Système :
+
+Système propriétaire (d12 + d6) Gestion de l’Ombre et de l’espoir
+
+🎭 Style :
+
+Narratif mais structuré Voyage, fatigue, corruption morale Ambiance Tolkien très respectée
+
+👉 Focus sur le voyage et le poids du destin
+
+# D100
+
+:::

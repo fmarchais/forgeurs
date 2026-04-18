@@ -3,7 +3,7 @@ title: "*Oyez, Oyez !*"
 ---
 
 ::: {.overlay-box}
-Bienvenue chez *Les Forgeurs d'aventures* !
+Bienvenue chez *Les Forgeurs d'Aventures* !
 
 Nous sommes une association de Jeu de Rôle, créée en 2026 par une équipe de Maîtres de Jeu passionnés. Notre objectif est de faire découvrir le jeu de rôle à de nouveaux joueurs, en proposant des parties régulières et des événements spéciaux.
 

@@ -5,6 +5,11 @@ image: /images/felix.png
 ---
 ::: {.overlay-box}
 
+## A propos de moi
+
+Après avoir découvert le Jeu de Rôle au lycée, c'est la découverte de Baldur's Gate 3 en 2023, qui m'a donné envie de reprendre le jeu sur table. Après un an comme joueur à la table de [Bip](/pages/les_mj/bip.qmd), je me suis lancé comme MJ à mon tour.
+
+
 ## Les univers
 
 ### Star Wars (1987)
@@ -17,12 +22,7 @@ Les scénarios peuvent prendre place à différentes époques du film, mais se f
 
 Batailles épiques, infiltrations ratées et fuites à toute vitesse sont au programme !
 
-::: {.callout-note}
-## Le système D6
-Votre personnage possède des compétences, comme "Combat au corps à corps" ou "Pilotage", dont la valeur est représentée par un nombre de dés (exemple : 3D).
-Lorsque vous voulez faire une action, vous lancez un nombre de dés égal à votre compétence. La difficulté dépend de l'action et de la situation, et fonctionne par seuils : 5 = facile, 10 = moyen, 15 = difficile, etc.
-Ainsi, vous pouvez rapidement devenir très bon dans une compétence, mais aussi très mauvais. C'est un système simple et efficace, qui permet de se concentrer sur l'histoire plutôt que sur les règles.
-:::
+Cette version de Star Wars utilise le [système de jeu D6](/pages/jdr/systemes.qmd#le-d6)
 
 Quelques scénarios que je fais jouer fréquemment :
 
@@ -34,27 +34,14 @@ Quelques scénarios que je fais jouer fréquemment :
 
 
 ### Avatar Legends
-Basé sur le manga et les séries animées *Avatar, le dernier maître de l'air* et *La légende de Korra*, le jeu utilise le système *PbA* (Powered by the Apocalypse / Propulsé par l'apocalypse). Les joueurs se retrouvent dans des zones sinistrées à devoir aider les survivants, combattre des bandits, faire face à des catastrophes naturelles... 
-Ce système de jeu est beaucoup moins axé sur le combat et la stratégie, et plus sur la narration et les interactions entre les personnages. C'est un système de jeu plus exigeant, mais qui permet de créer des histoires plus profondes et plus immersives. Ici, foncer dans le tas est rarement une bonne idée et il vous faudra comprendre les rapports de force entre les factions avant d'agir.
+Basé sur le manga et les séries animées *Avatar, le dernier maître de l'air* et *La légende de Korra*, le jeu utilise le système de jeu [*Powered By The Apocalypse*](/pages/jdr/systemes.qmd#le-powered-by-the-apocalypse)
 
 Les scénarios peuvent prendre place à toutes les époques de la série, de Kyoshi à Korra.
-
-::: {.callout-note}
-## Le système PbA
-Ce système se joue avec deux dés à six faces (2D6). Moins de 7 : c'est un échec. Entre 7 et 9 : c'est un succès partiel, avec un coût ou une complication. 10 ou plus : c'est un succès total. Le *PbA* repose sur des "mouvements" ou "actions", que les joueurs peuvent effectuer. Par exemple, dans *Avatar Legends*, si vous souhaitez distraire un ennemi : que vous utilisiez la maîtrise d'un élément, que vous lanciez un caillou ou que vous usiez de votre charme, vous utilisez l'action "*Tromper l'ennemi*".
-
-Les jeux utilisant le système PbA sont souvent plus narratifs et moins axés sur les règles que les jeux traditionnels. Ils mettent l'accent sur les choix des joueurs et les conséquences de leurs actions, plutôt que sur la gestion de leurs statistiques ou de leur équipement.
-:::
 
 Quelques scénarios que je fais jouer fréquemment :
 
 - *Les Pirates des Iles Carmin* : L'avatar Aang vient de battre le Seigneur du Feu Ozai et commence la reconstruction du Royaume de la Terre avec l'aide du nouveau seigneur du feu Zuko. Malheureusement une bande de pirates, qui était relativement calme depuis des années, a pillé une cargaison destinée à la reconstruction du Royaume de la Terre. Sans elle, le Royaume risque de ne pas croire à la nouvelle ère de paix et de prospérité, et pourrait même se tourner vers des solutions plus radicales pour se dédommager des dégâts causés par la Nation du Feu. Vous êtes envoyés pour retrouver les pirates et récupérer la cargaison.
 
 - *La mèche brûle* : Après le siège de la Cité de la République par Kuvira, la ville retrouve son calme et tout le monde travaille à sa reconstruction. Juniper Kim, ancienne scientifique au service du Royaume de la Terre, essaye de se racheter en trouvant des applications pacifistes aux armes développées pour le siège : elle étudie notamment l'encapsulation de l'énergie spirituelle dans des bonbonnes. Ce qu'elle ignorait, c'est qu'il existe de nombreuses factions intéressées par ses recherches, et l'une d'elle vient de voler plusieurs bonbonnes. Vous êtes envoyés pour les récupérer, mais vous allez vite découvrir que les bonbonnes sont plus dangereuses que ce que vous pensiez, et que les factions intéressées par ces recherches sont prêtes à tout pour les obtenir.
-
-
-## A propos de moi
-
-Après avoir découvert le Jeu de Rôle au lycée, c'est la découverte de Baldur's Gate 3 en 2023, qui m'a donné envie de reprendre le jeu sur table. Après un an comme joueur à la table de [Bip](/pages/les_mj/bip.qmd), je me suis lancé comme MJ à mon tour.
 
 :::
