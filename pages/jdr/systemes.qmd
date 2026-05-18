@@ -1,5 +1,5 @@
 # Les systèmes de jeu
-::: {.overlay-box}
+
 Vous voulez vous mettre au Jeu de Rôle, mais vous ne savez pas si cela va vous plaire ? Peur que le jeu soit trop tactique, trop théâtral, trop compliqué à comprendre ?
 
 *Ne vous inquiétez pas !*
@@ -12,27 +12,35 @@ Il y en a forcément un pour vous !
 
 # Le *MeatGrinder*
 
-Le *MeatGrinder*, littéralement "Hachoir à viande", est un système de jeu qui se base sur du combat brutal et une mort qui se cache derrière le moindre arbre. Votre personnage finira probablement par mourir au bout de 10 minutes, mais ne vous inquiétez pas : vous pourrez en changer comme de chemise, c'est même le but ! La création d'un nouveau personnage se fera en un instant, et votre Maître de Jeu aura probablement déjà préparé une dizaine de fiches d'avance.
+Le *MeatGrinder*, littéralement "Hachoir à viande", est un système de jeu qui se base sur du combat brutal et une mort qui se cache derrière chaque arbre. Votre personnage finira probablement par mourir au bout de 10 minutes, mais ne vous inquiétez pas : vous pourrez en changer comme de chemise, c'est même le but ! La création d'un nouveau personnage se fera en un instant, et votre Maître de Jeu aura probablement déjà préparé une dizaine de fiches d'avance.
 
-Ici, abandonnez l'idée de parlementer ou de ruser pour arriver à vos fins : il faut *TAPER !*, et si possible *TAPER FORT*.
+Ici, abandonnez l'idée de parlementer ou de ruser pour arriver à vos fins : il faut *TAPER !* et si possible *TAPER FORT*.
 
 Le moteur meatgrinder sera votre préféré si votre objectif est de vous défouler en buvant une bière.
 
-## Nos jeux basés sur le système meatgrinder
+**Nos jeux basés sur le système meatgrinder :**
 
-- Gobelin qui s'en dédie, par [Jules](/pages/les_mj/jules.qmd)
+- Gobelin qui s'en dédit, par [Jules](/pages/les_mj/jules.qmd)
 
 # Le *D20*, ou système D&D
 
-L'un des systèmes les plus connus, popularisé par *Donjons et Dragons* (D&D ou DnD pour les intimes). tactique, équilibre entre règles et narration
+L'un des systèmes les plus connus, popularisé par *Donjons et Dragons* (D&D ou DnD pour les intimes). Le système est tactique, équilibré entre règles et narration. 
+
+Il se joue avec un dé à 20 faces (D20) : pour réussir une action, vous devez faire un résultat égal ou supérieur à la difficulté de l'action, en ajoutant les bonus de votre personnage. Par exemple, si vous voulez escalader un mur de 10 mètres de haut, que la difficulté est de 15 et que vous possédez un bonus en agilité de +3, vous devez faire un résultat de 12 ou plus sur votre dé 20 pour réussir.
+
+**Nos jeux utilisant le moteur D20 :**
+
+- Donjons & Dragons (5E et 2024), par [Bip](/pages/les_mj/bip.qmd), [Vicky](/pages/les_mj/vicky.qmd), [Bebemouse](/pages/les_mj/bebemouse.qmd) et [Félix](/pages/les_mj/felix.qmd)
 
 # Le *D6*
 
-Le système D6 est plus simple que le système D20 : Vos compétences sont représentées par le nombre de dés à six faces (D6) que vous pouvez lancer. Par exemple, votre Dextérité peut être de 4D et votre Savoir de 2D. La difficulté dépend de l'action et de la situation, et fonctionne par seuils : 5 = facile, 10 = moyen, 15 = difficile, etc. Ainsi, vous pouvez rapidement devenir très bon dans une compétence, mais aussi très mauvais.
+Le système D6 est plus simple que le système D20 : Vos compétences sont représentées par le nombre de dés à six faces (D6) que vous pouvez lancer. Par exemple, votre Dextérité peut être de 5D et votre Savoir de 2D. La difficulté dépend de l'action et de la situation, et fonctionne par seuils : 5 = facile, 10 = moyen, 15 = difficile, etc. Ainsi, vous pouvez rapidement devenir très bon dans une compétence, mais aussi très mauvais, puisqu'avec 2D vous obtiendrez un maximum de 12, et serez garanti d'échouer un jet difficile.
 
-C'est un système simple et efficace, qui permet de se concentrer sur l'histoire plutôt que sur les règles.
+C'est un système simple et efficace, qui permet de se concentrer sur l'histoire plutôt que sur les règles. Il permet un jeu "cinématique", basé sur l'improvisation et l'action.
 
-Cinématique, basé sur l'improvisation et l'action
+**Nos jeux utilisant le moteur D6 :**
+
+- Star Wars (1987), par [Félix](/pages/les_mj/felix.qmd)
 
 # Le *Powered By The Apocalypse*
 
@@ -44,13 +52,15 @@ Les jeux utilisant le système PbA sont souvent plus narratifs et moins axés su
 
 Si vous voulez suivre une histoire qui va vous impliquer émotionnellement, c'est le moteur qu'il vous faut !
 
-## Nos jeux utilisant le moteur PbA :
+**Nos jeux utilisant le moteur PbA :**
 
 - Avatar Légendes, par [Félix](/pages/les_mj/felix.qmd)
 
 # The Black Hack
 
-Basé sur OSR (Old-School Renaissance) + dark fantasy moins basé sur les mécaniques, inspiré des premiers JDR dont DnD1, proche meatgrinder gameplay punitif, basé sur la débrouillardise \## Les jeux :
+Basé sur OSR (Old-School Renaissance) + dark fantasy moins basé sur les mécaniques, inspiré des premiers JDR dont DnD1, proche meatgrinder gameplay punitif, basé sur la débrouillardise 
+
+## Les jeux :
 
 Black Sword Hack, par [Jules](/pages/les_mj/jules.qmd)
 
@@ -66,7 +76,7 @@ Fantasy héroïque mais plus gritty que D&D Combat tactique avec effets stylés 
 
 👉 Bon mix entre tactique et narration
 
-# 🧙 L'Anneau Unique (La Terre du Milieu)
+# L'Anneau Unique (La Terre du Milieu)
 
 🎲 Système :
 
@@ -80,4 +90,3 @@ Narratif mais structuré Voyage, fatigue, corruption morale Ambiance Tolkien tr�
 
 # D100
 
-:::
