@@ -4,6 +4,7 @@ description: "Le MJ chaotique"
 image: /images/jules.png
 ---
 
+::: {.overlay-box}
 Venir à une de mes tables, c'est découvrir de nouveaux univers. En fonction de mes envies, vous pourrez découvrir des jeux riches, passant du medieval au futuriste, de la fantasy au noble dark, du système codifié au système très libre, poussé par le roleplay plus que par les dés...
 
 Des créations personnelles, des scénarios officiels ou proposés par la communauté, en passant par le one page, une seule et unique règle me guide : vous faire passer un agréable moment le temps d'une session.
@@ -25,3 +26,5 @@ Les univers explorés :
 - Black Sword Hack : un Mediéval Dark Fantasy, sombre et complexe, simple à prendre en main et terriblement efficace pour raconter ses histoires.
 
   Et pleins d'autres que j'ai oublié, ou qui arrivent !
+
+:::
