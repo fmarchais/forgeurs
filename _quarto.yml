@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "Les Forgeurs"
+  title: "Les Forgeurs d'Aventures"
   navbar:
     left:
       - text: "Accueil"
@@ -40,6 +40,9 @@ website:
       - icon: facebook
         href: https://www.facebook.com/jdrlaforge/?locale=fr_FR
         aria-label: Facebook
+      - icon: discord
+        href: https://discord.gg/dJEZbR4ZGJ
+        aria-label: Discord
       - icon: envelope
         href: mailto:lesforgeursdaventures@gmail.com
         aria-label: Email

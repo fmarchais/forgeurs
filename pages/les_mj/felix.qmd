@@ -1,28 +1,26 @@
 ---
 title: "Félix"
-description: "lorem ipsum"
+description: "Le stratège"
 image: /images/felix.png
 ---
 ::: {.overlay-box}
 
 ## A propos de moi
 
-Après avoir découvert le Jeu de Rôle au lycée, c'est la découverte de Baldur's Gate 3 en 2023 qui m'a donné envie de reprendre le jeu sur table. Après un an comme joueur à la table de [Bip](/pages/les_mj/bip.qmd), je me suis lancé comme MJ à mon tour.
+Après avoir découvert le Jeu de Rôle au lycée dans les années 2010 avec *Le Donjon de Naheulbeuk*, c'est la découverte de Baldur's Gate 3 en 2023 qui m'a donné envie de reprendre le jeu sur table. Après un an comme joueur à la table de [Bip](/pages/les_mj/bip.qmd), je me suis lancé comme MJ à mon tour.
 
 
 ## Mes univers
 
 ### Star Wars (1987)
 
-Basé sur la saga culte, cette version de *Star Wars* utilise le système D6, très adapté aux débutants. Le système est permissif et va naturellement provoquer des scènes rocambolesques, des situations improbables, des retournements de situation inattendus... De quoi se créer facilement de bons souvenirs. 
+Basé sur la saga culte, cette version de *Star Wars* utilise le [système D6](/pages/jdr/systemes.qmd#le-d6), très adapté aux débutants. Le système est permissif et va naturellement provoquer des scènes rocambolesques, des situations improbables, des retournements de situation inattendus... De quoi se créer facilement de bons souvenirs. 
 
 Le jeu est très tourné sur l'aventure et l'action, mais attention : ici vous n'incarnerez ni Jedi ni Sith, vous serez bien souvent un simple rebelle ou un pirate de l'espace essayant de survivre dans la Galaxie lointaine, très lointaine.
 
 Les scénarios peuvent prendre place à différentes époques des films, mais se font souvent entre les épisodes 3 et 5, lorsque l'Empire est à son apogée et que les rebelles sont encore très faibles.
 
 Batailles épiques, infiltrations ratées et fuites à toute vitesse sont au programme !
-
-Cette version de Star Wars utilise le [système de jeu D6](/pages/jdr/systemes.qmd#le-d6)
 
 Quelques scénarios que je fais jouer fréquemment :
 

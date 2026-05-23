@@ -1,26 +1,39 @@
 ---
-title: "*Oyez, Oyez !*"
+title: "*Salutations les aventuriers !*"
 ---
 
-::: {.overlay-box}
+::: overlay-box
 Bienvenue chez *Les Forgeurs d'Aventures* !
 
 Nous sommes une association de Jeu de Rôle, créée en 2026 par une équipe de Maîtres de Jeu passionnés. Notre objectif est de faire découvrir le jeu de rôle à de nouveaux joueurs, en proposant des parties régulières et des événements spéciaux.
 
 Basés sur Nantes depuis 2023, nous faisons jouer chaque semaine des parties ouvertes aux débutants comme aux joueurs confirmés.
 
+## Nos rendez-vous hebdomadaires et mensuels
 
-# Nos lieux de jeu
+- [La Forge](/pages/lassociation/partenaires.qmd#la-forge)
 
-- [La Forge](https://www.instagram.com/la_forge_nantes/), tous les jeudis soirs de 20h30 à 23h30, 43 Rue Gambetta, 44000 Nantes. Sessions gratuites mais **sur réservation** Les tables sont annoncées le weekend précédent sur nos réseaux sociaux. Pour vous inscrire, c'est [par ici](https://www.eventbrite.fr/o/les-forgeurs-daventures-nantes-72524511583)
+  - Quand : Tous les jeudis soirs de 20h30 à 23h30
 
-- [La taverne des aventuriers](https://latavernedesaventuriers.fr/), une fois par mois, 13 Rue Kervégan, 44000 Nantes. Sessions gratuites mais [réservation obligatoire](https://latavernedesaventuriers.fr/evenements)
+  - Où : 43 Rue Gambetta, 44000 Nantes
+
+  - Sessions gratuites mais [**sur réservation via eventbrite**](https://www.eventbrite.fr/o/les-forgeurs-daventures-nantes-72524511583).
+
+⚠️ Les tables sont publiées le weekend précédent sur nos réseaux sociaux
+
+- [La Taverne des aventuriers](/pages/lassociation/partenaires.qmd#la-taverne-des-aventuriers)
+
+  - Quand : Une fois par mois environ
+
+  - Où : 13 Rue Kervégan, 44000 Nantes.
+
+  - Sessions gratuites mais [**réservation obligatoire via le bar**](https://latavernedesaventuriers.fr/evenements)
 
 # Les événements
 
 Vous pourrez également nous retrouver dans des festivals et conventions pour des sessions d'inititation d'environ une heure
 
-Nos événements à venir :
+Nos événements en 2026:
 
 - Festival Asobi, 17 et 18 avril 2026 à Clisson (44)
 
@@ -28,4 +41,5 @@ Nos événements à venir :
 
 - Art To Play, en novembre 2026, à Nantes (44)
 
+Pour voir les photos de nos évènements passés, c'est [par ici](/pages/lassociation/galerie.qmd)
 :::

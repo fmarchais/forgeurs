@@ -1,21 +1,42 @@
 # Notre histoire
 
+:::{.overlay-box}
+
 ::: {.timeline .vertical .tl-diamond}
-::: {.event data-label="Printemps 2023"}
+::: {.event data-label="Février 2023"}
 **Début de l'histoire**
-Vickey reprend l'animation JdR au bar 'La Forge'
+Vicky reprend l'animation Jeu de Rôle au bar 'La Forge'
 :::
-::: {.event data-label="2021"}
-**First Release**
-Launched version 1.0 to early users.
+::: {.event data-label="Juillet 2023"}
+**Arrivée de Bebemouse**
+en tant qu'animateur pour les sessions de création de personnage de *Donjons & Dragons*
 :::
-::: {.event data-label="Hiver 2025"}
-**L'Association**
-*Les Forgeurs* deviennent officiellement une association Loi 1901
+::: {.event data-label="Août 2023"}
+**Bip rejoint l'aventure**
+Initialement présent pour un remplacement, Bip a accepté de poursuivre les initiations de *Donjons & Dragons*
 :::
+::: {.event data-label="Décembre 2023"}
+**Jules *aka* Cooki**
+nous a rallié pour répondre à une demande croissante de sessions
 :::
+::: {.event data-label="Novembre 2024"}
+**Les premiers pas de Félix.**
+Après avoir joué pendant un an à la table de Bip, Félix se lance comme Mj lors d'un évènement à l'Outlaw.
+:::
+:::{.event data-label="Décembre 2024"}
+**Début des animations à la Taverne des Aventuriers**
+Répondant à leur recherche de MJ, nous avons commencé à faire jouer une fois par mois dans ce bar à jeux médiéval.
+:::
+::: {.event data-label="Janvier 2026"}
+**Nodens et l'Association.** Nodens renforce l'équipe et nous devenons officiellement une association loi 1901
+:::
+
+:::
+
 
 
 # Découvrir le JDR
 
 *Le Jeu de Rôle, c'est quoi ?*
+
+:::
