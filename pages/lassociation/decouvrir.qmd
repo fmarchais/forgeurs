@@ -3,7 +3,7 @@
 ::: {.timeline .vertical .tl-diamond}
 ::: {.event data-label="Printemps 2023"}
 **Début de l'histoire**
-Victoria reprend l'animation JdR au bar 'La Forge'
+Vickey reprend l'animation JdR au bar 'La Forge'
 :::
 ::: {.event data-label="2021"}
 **First Release**

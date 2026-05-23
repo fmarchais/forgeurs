@@ -1,6 +1,32 @@
 # Nos partenaires
 
-## La forge
+## La Forge
+
+Située 43 rue Gambetta à nantes, La Forge est un bar médiéval et aussi notre QG, également à l'origine de notre nom. Nous y faisons jouer tous les jeudis soirs (sauf feriés ou exceptions).
+
+[Facebook - La Forge](https://www.facebook.com/LaForgeNantes/?locale=fr_FR)
+
+[Instagram - La Forge](https://www.instagram.com/la_forge_nantes/?hl=fr)
+
+
+<iframe
+					src="https://cartes.app/?allez=La Forge|n6041780204|-1.54852|47.21958#14/47.21844/-1.54868"
+					style="
+					width: 95%;
+					height: 36rem;
+					max-width: 100%;
+					margin: 0 auto;
+					margin-bottom: 5vh;
+					display: block;
+					box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 25px -5px,
+						rgba(0, 0, 0, 0.04) 0px 10px 10px -5px;
+
+						background: linear-gradient(white, white) padding-box, linear-gradient(to right, #2988e6, #57bff5) border-box;
+  border: 0.2rem solid transparent;
+  border-radius: 0.5rem;
+"
+></iframe>
+				
 
 ## La taverne des aventuriers
 

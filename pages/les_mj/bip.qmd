@@ -1,10 +1,16 @@
 ---
 title: "Bip"
 description: "L'expérimenté"
-image: /images/bernard.png
+image: /images/bip.png
 ---
+:::{ .overlay-box}
 
+Bip découvre les joies du jeu de rôle en 1979, à l’époque de la toute première édition d'Advanced Dungeons & Dragons. Piqué par le virus, il passe derrière l'écran dès 1983 pour endosser le rôle de Maître de Jeu sur des jeux de rôle français : Rêves de Dragons, Empire et Dynastie.
 
-## Les univers
+Les années passent, mais l'appel des donjons reste intact. En 2009, il renoue avec Dungeons & Dragons en version 3.5, avant de faire un détour inattendu dans le temps et l'espace avec Doctor Who : Adventures in Time and Space.
 
-- Donjons & Dragons
+Puis, un soir d'août 2023, Vicky l'invite à un one-shot D&D 5e au Bar Médiéval La Forge. Ce qui devait être une seule soirée s'est transformé en campagne… toujours en cours et contée ici : [worldanvil.com/les-mondes-oublies](https://www.worldanvil.com/w/les-mondes-oublies-bphilippe).
+Pour Bip, le jeu de rôle est avant tout une aventure collective, une expérience coopérative où chaque joueur contribue à bâtir l'histoire ensemble.
+
+Vous pourrez retrouver Bip pour des sessions d'initation à Donjons & Dragons 5e/2024 à La Forge un jeudi sur deux.
+:::
