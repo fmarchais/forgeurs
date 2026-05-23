@@ -1,6 +1,6 @@
 ---
-title: "La touche féminine"
-description: "La présidente"
+title: "Vicky"
+description: "La touche féminine"
 image: /images/vicky.png
 ---
 :::{.overlay-box} 
