@@ -1,5 +1,18 @@
 ---
 title: "BebeMouse"
-description: "lorem ipsum"
+description: "L'assistant"
 image: /images/bebemouse.png
 ---
+:::{.overlay-box}
+Au sein des Forgeurs d’Aventures, l'implication de chacun prend des formes différentes. Bebe Mouse occupe une place à part, celle d'un compagnon de route sur qui l'on peut compter.
+
+Tout a commencé par un coup de pouce rempli d'amour et de bonne volonté à [Vicky](/pages/les_mj/vicky.qmd) lors d’une soirée consacrée à la création de personnages. Depuis, il a naturellement trouvé sa place parmi les Forgeurs. Le jeu de rôle, qu'il a découvert plus jeune grâce à son père [Bip](/pages/les_mj/bip.qmd) en 2009, lui a permis de développer une aisance technique qu'il met aujourd'hui au service du groupe.
+
+Soutien technique : Il est un appui certain pour guider les joueurs dans la création de leurs fiches ou pour répondre aux questions sur les mécaniques de Donjons & Dragons.
+
+Gestion et présence : En tant que trésorier, il assure la gestion des comptes de l'association avec rigueur (autant que possible pour un panda), et il est toujours partant pour nous épauler lors de conventions ou d'évènements ou même de simples soirées.
+
+Quelques tables : Il ne se met pas en avant mais sais profiter de chaque moment de folie. Il lui arrive d'animer des parties de Donjons & Dragons, tout en laissant la place principale à d'autres membres comme Vicky ou Bip.
+
+Bebe Mouse est un vrai panda, non pas par une passion dévorante pour le jeu, mais par son aide, son esprit d'équipe et sa générosité. C’est cette aide sobre, régulière et volontaire qui fait de lui un des pilier des Forgeurs. 
+:::
